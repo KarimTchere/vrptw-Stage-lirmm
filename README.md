@@ -44,3 +44,8 @@ Pour exécuter cette application, vous devez avoir **Python** installé ainsi qu
 - NumPy  
 
 ⚠️  TRES IMPORTANT : avoir une licence hexaly !!! ⚠️  
+
+Pour lancer l'application,  ouvrez un terminal, naviguez jusqu'au dossier source, puis exécutez la commande suivante :
+
+streamlit run nom_du_fichier.py
+
